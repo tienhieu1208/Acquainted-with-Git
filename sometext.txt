@@ -1,0 +1,21 @@
+Python
+Microsoft SQL Server
+C#
+HTML
+CSS
+Javascript
+PHP
+MySQL
+MERN Stack
+MongoDB
+ExpressJS
+ReactJS
+NodeJS
+Postman
+API
+Bootstrap
+Figma
+draw.io
+AxureRP
+Enterpise Architecture
+Pencil
